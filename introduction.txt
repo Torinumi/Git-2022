@@ -1,3 +1,8 @@
 Name: Tri
+
 Hobby: C, C++
 University: BK, HCMC
+
+Hobby: Soccer
+Year: 3rd 
+
